@@ -2,4 +2,4 @@
 DELETE FROM books WHERE title = 'Moby-Dick';
 
 -- Delete an author by ID
-DELETE FROM authors WHERE id = 3;
+DELETE FROM authors WHERE id = 3;"-- Delete: remove inactive patrons" 
