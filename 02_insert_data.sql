@@ -35,4 +35,4 @@ INSERT INTO patrons (id, name, email, borrowed_books) VALUES
 (7, 'Grace Miller', 'grace@example.com', ARRAY[]::INT[]),
 (8, 'Hank Wilson', 'hank@example.com', ARRAY[6]),
 (9, 'Ivy Taylor', 'ivy@example.com', ARRAY[]::INT[]),
-(10, 'Jack Anderson', 'jack@example.com', ARRAY[7, 8]);
+(10, 'Jack Anderson', 'jack@example.com', ARRAY[7, 8]);"-- Inserted additional sample authors" 
