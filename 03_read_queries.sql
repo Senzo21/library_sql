@@ -11,4 +11,4 @@ JOIN authors a ON b.author_id = a.id
 WHERE a.name = 'George Orwell';
 
 -- Get all available books
-SELECT * FROM books WHERE available = TRUE;
+SELECT * FROM books WHERE available = TRUE;"-- Query: books borrowed more than 3 times" 
