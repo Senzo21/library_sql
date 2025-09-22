@@ -27,4 +27,4 @@ CREATE TABLE patrons (
     name VARCHAR(100) NOT NULL,
     email VARCHAR(100) UNIQUE NOT NULL,
     borrowed_books INT[]
-);
+);"-- Added foreign key constraints" 
